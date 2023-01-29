@@ -1,6 +1,6 @@
 - 👋 Hi, Hello~, I'm Phong! You can call me Paul.
 - 👀 I’m interested in Back-end Developer
-- 🌱 I’m currently learning Java
+- 🌱 I am currently learning Java and will focus on developing towards [Full Stack Developer]
 - 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/paulnguyen792/)
 - 📫 How to reach me:
 [Email:] ntphongwork79@gmail.com
